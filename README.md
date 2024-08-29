@@ -7,6 +7,7 @@ There are several things that could be added to make the product, such as:
 - Location Based Recommendation
 - Sub/Dub Recommendation
 - Use of database with more anime.
+- Fix the case sensetivity
 
 --
 Developers Note:
