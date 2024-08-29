@@ -1,4 +1,5 @@
 print("Welcome to the Anime Recommendation software Ver 0,01. Please answer the following questions.")
+print("The program is currently case sensitive")
 
 # Recommendation Variables
 
@@ -170,3 +171,5 @@ else:
     print("Program is shutting down.")
 
 print(f"\nThank you {name.title()} for using Anime Recommendation software Ver 0,01")
+
+input("\nInput 'exit' to the terminate program: ")
